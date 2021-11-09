@@ -11,7 +11,7 @@ import ccxt
 import numpy as np
 from datetime import datetime
 from streamlit import caching
-import talib
+#import talib
 import ccxt
 import pandas as pd
 import datetime
