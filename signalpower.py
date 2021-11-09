@@ -16,9 +16,9 @@ import ccxt
 import pandas as pd
 import datetime
 import numpy as np
-import TAcharts
-from tapy import Indicators
-import ta_py as ta
+#import TAcharts
+#from tapy import Indicators
+#import ta_py as ta
 import requests
 import os
 import sys
